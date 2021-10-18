@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Donatas",
+    "location": true
+  },
+  {
+    "name": "Tajus",
+    "location": true
+  },
+  {
+  "name": "Indre",
+  "location": true
+},
+  {
+    "name": "Joris",
+    "location": false
+  },
+  {
+    "name": "Tomas",
+    "location": true
+  },
+  {
+    "name": "Viktoras",
+    "location": false
+  }
+]
